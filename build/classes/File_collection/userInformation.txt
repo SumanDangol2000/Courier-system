@@ -1,0 +1,5 @@
+0001,Suman Dangol,suman@mail.com,9823823816,suman123,Managing staff,Male
+0002,Anil Kafle,kafle@mail.com,9877556312,anil123,Delivery staff,Male
+0003,Karina Nepal,karina@mail.com,9802364530,nepal123,Delivery staff,Female
+0004,Anjana Shrestha,anjana@mail.com,9800765432,shrestha123,Managing staff,Female
+0005,Geeta Karim,geeta@mail.com,9822441232,geeta123,Delivery staff,Female

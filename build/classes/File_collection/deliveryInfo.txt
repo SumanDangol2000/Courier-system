@@ -1,0 +1,6 @@
+99550,subham rai,saruta nepal,Mumbai India,Kathmandu Nepal,2022-01-15,0.5/2
+12354,rajan rai,ranjana rai,Dolpa Nepal,Solukhumbu Nepal,2022-01-15,2kg/3
+12055,suman dangol,Nabraj chaudhary,Lalitpur Nepal,Dolpa Nepal,2022-01-18,1.5kg/3
+12005,suman dangol,anil kafle,Kathmandu Nepal,Humla Nepal,2022-01-18,3kg/2
+12005,sujata lama,kiran lama,Kathmandu Nepal,Humla Nepal,2022-01-25,5.8kg/4
+12550,seela chaudhary,Raman nepal,Chitwan Nepal,Lalitpur Kathmandu,2022-01-25,1.1kg/2
