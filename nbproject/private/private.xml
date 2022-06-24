@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/SUMAN/Documents/NetBeansProjects/Courier_system_backup/src/co/system/LoginForm/LoginForm.java</file>
-            <file>file:/C:/Users/SUMAN/Documents/NetBeansProjects/Courier_system_backup/src/co/system/Dao/UserAndProductDaoImpl.java</file>
-            <file>file:/C:/Users/SUMAN/Documents/NetBeansProjects/Courier_system_backup/src/File_collection/userInformation.txt</file>
-            <file>file:/C:/Users/SUMAN/Documents/NetBeansProjects/Courier_system_backup/src/co/system/userManagementForm/UserDashboard.java</file>
-            <file>file:/C:/Users/SUMAN/Documents/NetBeansProjects/Courier_system_backup/src/File_collection/pendingInfo.txt</file>
-            <file>file:/C:/Users/SUMAN/Documents/NetBeansProjects/Courier_system_backup/src/co/system/bll/UserAndProduct.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
